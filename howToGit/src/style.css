@@ -1,0 +1,59 @@
+.container {
+    text-align: center;
+    width: 900px;
+    height: auto;
+    margin: auto;
+}
+
+body{
+    background: linear-gradient(45deg, #fa5162, #d3c93d);
+}
+
+img {
+    width: 150px;
+    height: auto;
+    margin: auto;
+}
+
+header{
+    border-bottom: 2px dashed black;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+div{
+    font-size: 150%;
+    width: 900px;
+    height: auto;
+    margin: auto;
+    text-align: center;
+    border:solid rgb(181, 3, 3);
+    border-radius: 12px;
+}
+
+footer{
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    background: linear-gradient(45deg, #ff9191, #f50303);
+    padding: 20px;
+    text-align: right;
+
+}
+
+div:hover{
+    border-style: solid;
+    border-radius: 24px;
+    border-color:rgb(255, 255, 255);
+}
